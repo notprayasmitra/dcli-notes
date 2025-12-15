@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/Installation.md",
+                "file": "Wiki/Getting Started.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Installation"
+              "title": "Getting Started"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "5254e504e3fef4c0",
   "lastOpenFiles": [
-    "Introduction.md",
     "Wiki/Installation.md",
+    "Wiki/Getting Started.md",
+    "Introduction.md",
     "Wiki/References/Flatpak.md",
     "Wiki/References/CLI.md",
     "Wiki/References/Snapper.md",
