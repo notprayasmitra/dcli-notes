@@ -11,26 +11,14 @@
             "id": "5254e504e3fef4c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Wiki/Installation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "393dc497437e65e5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d585543b7d968276",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Installation"
             }
           }
         ]
@@ -106,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Wiki/Installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Installation"
             }
           },
           {
@@ -124,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Wiki/Installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Installation"
             }
           },
           {
@@ -166,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Wiki/Installation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Installation"
             }
           }
         ]
@@ -193,9 +183,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "6055ada6940caf17",
+  "active": "5254e504e3fef4c0",
   "lastOpenFiles": [
-    "README.md",
-    "Welcome.md"
+    "Introduction.md",
+    "Wiki/Installation.md",
+    "Wiki/References/Flatpak.md",
+    "Wiki/References/CLI.md",
+    "Wiki/References/Snapper.md",
+    "Wiki/References/Timeshift.md",
+    "Wiki/References/pacman.md",
+    "Wiki/References/YAML.md",
+    "Wiki/References/fzf.md",
+    "Wiki/References/TUI.md",
+    "Wiki/References",
+    "Welcome.md",
+    "Wiki",
+    "README.md"
   ]
 }
