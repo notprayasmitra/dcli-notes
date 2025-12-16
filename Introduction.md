@@ -25,4 +25,4 @@
 - Live preview panes
 - Keyboard-driven workflow
 
-*For installing the dcli tool, steps are mentioned in [[Installation]] page.*
+*For installing the dcli tool, steps are mentioned in [[1 - Installation]] page.*

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/Getting Started.md",
+                "file": "Wiki/3.1 - Usage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Getting Started"
+              "title": "3.1 - Usage"
             }
           }
         ]
@@ -185,12 +185,14 @@
   },
   "active": "5254e504e3fef4c0",
   "lastOpenFiles": [
+    "Wiki/2.1 - Getting Started.md",
+    "Wiki/1 - Installation.md",
+    "Wiki/3.1 - Usage.md",
+    "Wiki/2.2 - Configuration Structure.md",
     "Introduction.md",
     "Images/dcli-init-output.png",
-    "Wiki/Getting Started.md",
     "Images",
     "Pasted image 20251216112801.png",
-    "Wiki/Installation.md",
     "Wiki/References/Flatpak.md",
     "Wiki/References/CLI.md",
     "Wiki/References/Snapper.md",
